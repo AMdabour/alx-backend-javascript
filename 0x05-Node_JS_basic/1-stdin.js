@@ -8,5 +8,3 @@ function readInput() {
     console.log('This important software is now closing');
   });
 }
-
-readInput();
